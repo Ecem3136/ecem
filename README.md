@@ -1,2 +1,0 @@
-# ecem
-Ecemakkaya
